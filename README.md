@@ -1,1 +1,2 @@
-# SERVER-THE-BEGGINING
+# synchronousBallMovement
+Ball moving synchronously
